@@ -1,0 +1,9 @@
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\bin\Debug\Evaluacion2Model.dll
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\bin\Debug\Evaluacion2Model.pdb
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\bin\Debug\ServerSocketUtils.dll
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\bin\Debug\ServerSocketUtils.pdb
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\obj\Debug\Evaluacion2Model.csproj.AssemblyReference.cache
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\obj\Debug\Evaluacion2Model.csproj.CoreCompileInputs.cache
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\obj\Debug\Evaluacion2Model.csproj.CopyComplete
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\obj\Debug\Evaluacion2Model.dll
+C:\Users\john-\source\repos\JCornejoEvaluacion2\Evaluacion2Model\obj\Debug\Evaluacion2Model.pdb

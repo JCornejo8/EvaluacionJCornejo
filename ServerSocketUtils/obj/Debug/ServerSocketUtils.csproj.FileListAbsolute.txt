@@ -1,0 +1,6 @@
+C:\Users\john-\source\repos\ServerSocketUtils\bin\Debug\ServerSocketUtils.dll
+C:\Users\john-\source\repos\ServerSocketUtils\bin\Debug\ServerSocketUtils.pdb
+C:\Users\john-\source\repos\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.AssemblyReference.cache
+C:\Users\john-\source\repos\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\john-\source\repos\ServerSocketUtils\obj\Debug\ServerSocketUtils.dll
+C:\Users\john-\source\repos\ServerSocketUtils\obj\Debug\ServerSocketUtils.pdb

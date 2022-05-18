@@ -1,0 +1,8 @@
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\bin\Debug\ClienteJCornejoEva2.exe.config
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\bin\Debug\ClienteJCornejoEva2.exe
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\bin\Debug\ClienteJCornejoEva2.pdb
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\obj\Debug\ClienteJCornejoEva2.csproj.AssemblyReference.cache
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\obj\Debug\ClienteJCornejoEva2.csproj.SuggestedBindingRedirects.cache
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\obj\Debug\ClienteJCornejoEva2.csproj.CoreCompileInputs.cache
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\obj\Debug\ClienteJCornejoEva2.exe
+C:\Users\john-\source\repos\ClienteJCornejoEva2\ClienteJCornejoEva2\obj\Debug\ClienteJCornejoEva2.pdb
